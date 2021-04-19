@@ -26,7 +26,7 @@ export default function Layout({ children, home }) {
         {home ? (
           <>
             <Image priority src='/images/logo.jpeg' className={utilStyles.borderCircle} height={144} width={144} alt={name} />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <h1 className={utilStyles.heading2Xl}>{name}!</h1>
           </>
         ) : (
           <>
