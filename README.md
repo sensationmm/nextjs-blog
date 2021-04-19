@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+SOMO Elastic / Next / Vercel Boilerplate
+
+npx create-next-app --example with-styled-components with-styled-components-app
